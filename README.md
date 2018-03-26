@@ -7,7 +7,7 @@ Sayısal Elektronik Simülatör Uygulaması
 ## SÜRÜKLE BIRAK YÖNTEMİ
 ![ekran1](https://user-images.githubusercontent.com/24703372/37901780-10b9dc3e-30fb-11e8-8e4e-cd383bdcfe08.png)
 
-##ÖRNEK MANTIK DEVRELERİ
+## ÖRNEK MANTIK DEVRELERİ
 ![devre](https://user-images.githubusercontent.com/24703372/37901781-10e1c6c2-30fb-11e8-8366-a86a873f441f.png)
 
 ![devre1](https://user-images.githubusercontent.com/24703372/37901778-0fff0e40-30fb-11e8-8e89-ac8064c47423.png)
