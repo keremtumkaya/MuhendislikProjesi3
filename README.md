@@ -2,12 +2,12 @@
 Sayısal Elektronik Simülatör Uygulaması
 
 ## ANA EKRAN
-![ekran](https://user-images.githubusercontent.com/24703372/37901779-10288a72-30fb-11e8-96c5-46fbe21a0001.png)
+![ekran](https://user-images.githubusercontent.com/24703372/38062523-feb0bd4c-32fc-11e8-81f4-5afe7b702f1d.png)
 
 ## SÜRÜKLE BIRAK YÖNTEMİ
-![ekran1](https://user-images.githubusercontent.com/24703372/37901780-10b9dc3e-30fb-11e8-8e4e-cd383bdcfe08.png)
+![ekran1](https://user-images.githubusercontent.com/24703372/38062524-ff5ab90a-32fc-11e8-8bc3-2349832eb6cb.png)
 
 ## ÖRNEK MANTIK DEVRELERİ
-![devre](https://user-images.githubusercontent.com/24703372/37901781-10e1c6c2-30fb-11e8-8366-a86a873f441f.png)
+![devre](https://user-images.githubusercontent.com/24703372/38062521-fe35fe90-32fc-11e8-8838-0beefd5ee3a5.png)
 
-![devre1](https://user-images.githubusercontent.com/24703372/37901778-0fff0e40-30fb-11e8-8e89-ac8064c47423.png)
+![devre1](https://user-images.githubusercontent.com/24703372/38062522-fe622b32-32fc-11e8-8d64-9dfe75eee4fa.png)
