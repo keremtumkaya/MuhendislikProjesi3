@@ -1,0 +1,9 @@
+D:\visual_projeler\muh_proje3\muh_proje3\bin\muh_proje3.dll.config
+D:\visual_projeler\muh_proje3\muh_proje3\bin\muh_proje3.dll
+D:\visual_projeler\muh_proje3\muh_proje3\bin\muh_proje3.pdb
+D:\visual_projeler\muh_proje3\muh_proje3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\visual_projeler\muh_proje3\muh_proje3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\visual_projeler\muh_proje3\muh_proje3\obj\Debug\muh_proje3.csprojResolveAssemblyReference.cache
+D:\visual_projeler\muh_proje3\muh_proje3\obj\Debug\muh_proje3.csproj.CoreCompileInputs.cache
+D:\visual_projeler\muh_proje3\muh_proje3\obj\Debug\muh_proje3.dll
+D:\visual_projeler\muh_proje3\muh_proje3\obj\Debug\muh_proje3.pdb
